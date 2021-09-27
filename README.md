@@ -23,6 +23,9 @@ covid 19
 ```
 See the folder `data_preprocess` for details.
 
+We provided data samples in the folder `datasets` to test our code.
+The full datasets can be obtained from their original creators/authors.
+
 
 ## MLM pretraining
 To perform masked language model pretraining, run the script:
